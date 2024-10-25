@@ -26,6 +26,6 @@
 
 # Where am I deployed?
 
-<https://deploy-this-repo-dangarc-9ig3vnsls-daniels-projects-67f8fe61.vercel.app/>
+https://deploy-this-repo-dangarc-9ig3vnsls-daniels-projects-67f8fe61.vercel.app/
 
 
